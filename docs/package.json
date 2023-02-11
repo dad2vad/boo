@@ -1,0 +1,24 @@
+{
+  "name": "@reatom/docs",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@artalar/mono": "^1.0.3",
+    "@astrojs/prefetch": "^0.1.1",
+    "@astrojs/sitemap": "^1.0.0",
+    "@vercel/analytics": "^0.1.5",
+    "astro": "^1.9.0",
+    "tsx": "^3.12.1"
+  },
+  "devDependencies": {
+    "zx": "^7.1.1"
+  }
+}
