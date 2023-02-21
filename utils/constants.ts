@@ -1,2 +1,2 @@
-export const SITE_TITLE = "Fresh Hacker News";
-export const DESCRIPTION = "Hacker News clone made with Fresh";
+export const SITE_TITLE = "F";
+export const DESCRIPTION = "Fresh";
